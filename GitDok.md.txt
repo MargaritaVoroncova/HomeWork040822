@@ -46,4 +46,6 @@
 
 ## Ветки
 
->** git branch
+>**  git branch new_branch_name** - создать новую ветку.
+>**  git branch checout_name**- перейти с ветки на ветку
+>**  git branch
